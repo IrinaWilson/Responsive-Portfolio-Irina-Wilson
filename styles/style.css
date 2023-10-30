@@ -40,8 +40,7 @@ h2 {
   justify-content: center;
 }
 
-.navigation-links,
-a {
+.navigation-links a {
   margin: 20px;
   border-radius: 4px;
   padding: 20px 15px;
